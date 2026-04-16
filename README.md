@@ -1,0 +1,27 @@
+# 🌱 Página Web de Semillería
+
+## 📌 Descripción
+
+Proyecto de página web para una semillería, desarrollado en HTML. Incluye secciones de inicio, sobre nosotros, productos y servicios, novedades y contacto.
+
+## 🚀 Cómo ver el proyecto
+
+Podés ver la página funcionando en:
+https://tuusuario.github.io/nombre-del-repo
+
+## 🛠 Tecnologías utilizadas
+
+* HTML
+* CSS
+* JavaScript
+
+## 📂 Estructura del proyecto
+
+* index.html
+* css/
+* js/
+* media/
+
+## 👨‍🎓 Autor
+
+Pablo Alejandro 
