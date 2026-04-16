@@ -7,7 +7,7 @@ Proyecto de página web para una semillería, desarrollado en HTML. Incluye secc
 ## 🚀 Cómo ver el proyecto
 
 Podés ver la página funcionando en:
-https://pablodev1337.github.io/Pagina-web-de-semilleria/
+https://pablodev1337.github.io/web-semilleria/
 
 ## 🛠 Tecnologías utilizadas
 
